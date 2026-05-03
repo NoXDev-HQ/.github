@@ -54,7 +54,7 @@
   <a href="https://discord.gg/8aNvAveuEr">
     <img src="https://img.shields.io/badge/JOIN_HQ-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <a href="https://nox.dev">
+  <a href="https://noxdev-hq.github.io">
     <img src="https://img.shields.io/badge/BROWSE_WEB-FF1A1A?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="mailto:simplybyharshh@gmail.com">
